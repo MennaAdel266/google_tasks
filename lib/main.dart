@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:google_tasks/ui-screens/Misbha.dart';
-import 'package:google_tasks/ui-screens/profile_screen.dart';
+import 'package:google_tasks/Layout/clock_layout.dart';
+
 
 void main() {
   runApp( MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
      debugShowCheckedModeBanner: false,
-      home: MisbhaScreen(),
+      home: HomeScreen(),
     );
   }
 }
