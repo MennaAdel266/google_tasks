@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   conditional_builder: ^1.0.2
   custom_timer: ^0.1.1
+  font_awesome_flutter: ^10.1.0
 
 dev_dependencies:
   flutter_test:
