@@ -39,7 +39,7 @@ class BmiResult extends StatelessWidget
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 30,
-              color: Colors.grey,
+              color: Colors.blue,
             ),
           ),
           SizedBox(
@@ -97,7 +97,7 @@ class BmiResult extends StatelessWidget
                     ),
                   ),
                   Text(
-                    'Result : ${showStatus(result)}',
+                    'Status : ${showStatus(result)}',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 25,

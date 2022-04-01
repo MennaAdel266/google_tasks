@@ -37,6 +37,8 @@ dependencies:
   conditional_builder: ^1.0.2
   custom_timer: ^0.1.1
   font_awesome_flutter: ^10.1.0
+  bloc: ^7.0.0
+  flutter_bloc: ^7.0.0
 
 dev_dependencies:
   flutter_test:
